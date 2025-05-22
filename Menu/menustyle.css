@@ -216,7 +216,6 @@ body {
     background: #333;
 }
 
-/* Опції доставки */
 .delivery-options {
     display: flex;
     justify-content: flex-end;
@@ -242,7 +241,6 @@ body {
     color: #666;
 }
 
-/* Основний контент */
 .main-content {
     padding: 0 20px;
     background: #f9ecec;
@@ -570,7 +568,6 @@ body {
     background: #f0f0f0;
 }
 
-/* Анімації */
 @keyframes fadeIn {
     from { opacity: 0; }
     to { opacity: 1; }
